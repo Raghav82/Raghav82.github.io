@@ -1,3 +1,7 @@
+---
+layout: default
+title: Portfolio
+---
 # 📁 Project Portfolio
 
 Welcome to my project portfolio! Below are selected repositories that showcase my work across data science, machine learning, and software development.
