@@ -12,10 +12,10 @@ I'm currently working with [Project: Return to Work Inc. (R2W)](https://www.retu
 Analyzing FAA flight safety and delay data to uncover patterns in operational performance and safety incidents. This research demonstrates how public data can be used to improve transportation systems and inform policy decisions.
 
 ### 📊 Economic Forecasting with FRED API
-Using the Federal Reserve Economic Data (FRED) API, I build time series models to forecast key economic indicators such as unemployment rates and inflation. These insights support workforce development strategies and grant proposals at R2W.
+Using the Federal Reserve Economic Data (FRED) API, I build time series models to forecast key economic indicators such as unemployment rates and inflation. [Read the full article here, repo is below.](https://medium.com/@raghavsingh4161/forecasting-u-s-inflation-with-prophet-and-fred-api-a-step-by-step-guide-72c527fd2a58) 
 
 ### 📈 Power BI & DAX Dashboards
-Designing and deploying interactive dashboards using Power BI and DAX to visualize KPIs, financial trends, and operational metrics. These tools help stakeholders at R2W and other organizations make data-driven decisions and communicate impact effectively.
+Designing and deploying interactive dashboards using Power BI and DAX to visualize KPIs, financial trends, and operational metrics. These tools help stakeholders at R2W and other organizations make data-driven decisions and communicate impact effectively.[Read the full article here.](https://medium.com/@raghavsingh4161/designing-a-data-driven-power-bi-sales-dashboard-with-dax-powered-kpis-204c9502e41a)
 
 ## Portfolio
 
