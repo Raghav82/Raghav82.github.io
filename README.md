@@ -25,7 +25,7 @@ Visit my [portfolio page](portfolio.md) to explore featured projects, dashboards
 
 - [FRED API Forecasting Project](https://github.com/raghav82/fred-api-forecasting) – Time series modeling and economic indicator analysis using Python and FRED API.
 - [CPI Prediction With Prophet](https://github.com/Raghav82/CPI-Prediction-With-Prophet) – Forecasting CPI using Meta’s Prophet and cross-validation.
-- [Perceptron](https://github.com/Raghav82/Perceptron](https://github.com/Raghav82/Perceptron-) – Binary classification algorithm implementation.
+- [Perceptron](https://github.com/Raghav82/Perceptron-) – Binary classification algorithm implementation.
 - [Shopping_Cart](https://github.com/Raghav82/Shopping_Cart) – Object-oriented shopping cart simulation in Python.
 
 ## Contact
