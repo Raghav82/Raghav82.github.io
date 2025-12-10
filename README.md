@@ -1,20 +1,22 @@
 # Welcome to My Site
 
-Hi, I'm **Raghav Singh**, a data analyst and graduate student in Data Science at CSU. I specialize in using data to solve real-world problems, especially those that impact underserved communities.
+Hi, I'm **Raghav Singh**, a data analyst and graduate student in Data Science at CSU. I specialize in using data to solve real-world problems for small to mid-sized business who want to unlock the value that is currently dormant in their data or set up the structure to collect data and create a historical record for analysis. 
 
 ## About Me
 
-I'm currently working with [Project: Return to Work Inc. (R2W)](https://www.return2work.org), a nonprofit dedicated to helping veterans and individuals with disabilities reintegrate into the workforce. At R2W, I lead business intelligence efforts, mentor STEM interns, and support grant writing and program design.
+I'm currently building my website, SignalBoardAnalytics.com and launching my Data Analytics Consulting business. Both will be live by January 1st 2026
 
 ## Current Projects
 
-### ✈️ FAA Flight Safety Data Analysis
-Analyzing FAA flight safety and delay data to uncover patterns in operational performance and safety incidents. This research demonstrates how public data can be used to improve transportation systems and inform policy decisions.
+### Apache Airflow to automate ETL for Snowflake
+This project demonstrates how to integrate Apache Airflow with Snowflake to build automated ETL workflows. It includes step-by-step instructions for setting up Airflow in a Linux environment using WSL, configuring connections to Snowflake, and creating DAGs for orchestrating SQL tasks. The goal is to provide a practical guide for deploying scalable, reliable data pipelines with full visibility and error handling. [Read the full article on LinkedIn] (https://www.linkedin.com/pulse/how-setup-airflow-automate-etl-snowflake-raghav-singh--pblmc)
 
-### 📊 Economic Forecasting with FRED API
+
+
+### Economic Forecasting with FRED API
 Using the Federal Reserve Economic Data (FRED) API, I build time series models to forecast key economic indicators such as unemployment rates and inflation. [Read the full article here, repo is below.](https://medium.com/@raghavsingh4161/forecasting-u-s-inflation-with-prophet-and-fred-api-a-step-by-step-guide-72c527fd2a58) 
 
-### 📈 Power BI & DAX Dashboards
+### Power BI & DAX Dashboards
 Designing and deploying interactive dashboards using Power BI and DAX to visualize KPIs, financial trends, and operational metrics. These tools help stakeholders at R2W and other organizations make data-driven decisions and communicate impact effectively.[Read the full article here.](https://medium.com/@raghavsingh4161/designing-a-data-driven-power-bi-sales-dashboard-with-dax-powered-kpis-204c9502e41a)
 
 ## Portfolio
