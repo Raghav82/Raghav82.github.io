@@ -9,7 +9,7 @@ I'm currently building my website, SignalBoardAnalytics.com and launching my Dat
 ## Current Projects
 
 ### Apache Airflow to automate ETL for Snowflake
-This project demonstrates how to integrate Apache Airflow with Snowflake to build automated ETL workflows. It includes step-by-step instructions for setting up Airflow in a Linux environment using WSL, configuring connections to Snowflake, and creating DAGs for orchestrating SQL tasks. The goal is to provide a practical guide for deploying scalable, reliable data pipelines with full visibility and error handling. [Read the full article on LinkedIn] (https://www.linkedin.com/pulse/how-setup-airflow-automate-etl-snowflake-raghav-singh--pblmc)
+This project demonstrates how to integrate Apache Airflow with Snowflake to build automated ETL workflows. It includes step-by-step instructions for setting up Airflow in a Linux environment using WSL, configuring connections to Snowflake, and creating DAGs for orchestrating SQL tasks. The goal is to provide a practical guide for deploying scalable, reliable data pipelines with full visibility and error handling. [Read the full article on LinkedIn](https://www.linkedin.com/pulse/how-setup-airflow-automate-etl-snowflake-raghav-singh--pblmc)
 
 
 
